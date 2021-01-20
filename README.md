@@ -1,2 +1,2 @@
 # codeforces
-C++, CF, CONTESTS&amp;PROBLEM SET
+cf上的比赛题解
